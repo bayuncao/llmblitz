@@ -1,0 +1,9 @@
+[
+    { "id": "s17t171", "source": "1-7", "target": "1-7-1", "animated": true, "style": "stroke: #fff;" },
+    { "id": "s17t172", "source": "1-7", "target": "1-7-2", "animated": true, "style": "stroke: #fff;" },
+    { "id": "s17t173", "source": "1-7", "target": "1-7-3", "animated": true, "style": "stroke: #fff;" },
+    { "id": "s17t174", "source": "1-7", "target": "1-7-4", "animated": true, "style": "stroke: #fff;" },
+    { "id": "s17t175", "source": "1-7", "target": "1-7-5", "animated": true, "style": "stroke: #fff;" },
+    { "id": "s17t176", "source": "1-7", "target": "1-7-6", "animated": true, "style": "stroke: #fff;" }
+  ]
+  

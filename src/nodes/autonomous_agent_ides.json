@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1-11",
+      "data": { "label": "Autonomous Agent IDEs" }
+      
+    },
+    {
+      "id": "1-11-1",
+      "data": { "label": "LangChain" }
+      
+    },
+    {
+      "id": "1-11-2",
+      "data": { "label": "Llamalendex" }
+      
+    },
+    {
+      "id": "1-11-3",
+      "data": { "label": "Steamship" }
+      
+    },
+    {
+      "id": "1-11-4",
+      "data": { "label": "GALE by Kore.ai" }
+      
+    },
+    {
+      "id": "1-11-5",
+      "data": { "label": "stack" }
+      
+    },
+    {
+      "id": "1-11-6",
+      "data": { "label": "haystack" }
+      
+    }
+  ]
+  

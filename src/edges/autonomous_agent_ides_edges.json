@@ -1,0 +1,9 @@
+[
+    { "id": "s111t1111", "source": "1-11", "target": "1-11-1", "animated": true, "style": "stroke: #fff;" },
+    { "id": "s111t1112", "source": "1-11", "target": "1-11-2", "animated": true, "style": "stroke: #fff;" },
+    { "id": "s111t1113", "source": "1-11", "target": "1-11-3", "animated": true, "style": "stroke: #fff;" },
+    { "id": "s111t1114", "source": "1-11", "target": "1-11-4", "animated": true, "style": "stroke: #fff;" },
+    { "id": "s111t1115", "source": "1-11", "target": "1-11-5", "animated": true, "style": "stroke: #fff;" },
+    { "id": "s111t1116", "source": "1-11", "target": "1-11-6", "animated": true, "style": "stroke: #fff;" }
+  ]
+  

@@ -1,0 +1,28 @@
+{
+	"version": 3,
+	"file": "index.d.ts",
+	"names": [
+		"ShortcutParameters",
+		"ShortcutEventDetails",
+		"shortcut",
+		"ShortcutAttributes",
+		"ShortcutModifier",
+		"ShortcutModifierDefinition",
+		"ShortcutTrigger",
+		"ShortcutParameter",
+		"ShortcutEventDetail",
+		"ShortcutActionReturn"
+	],
+	"sources": [
+		"../src/index.js",
+		"../src/shortcut.js",
+		"../src/public.d.ts"
+	],
+	"sourcesContent": [
+		null,
+		null,
+		null
+	],
+	"mappings": ";;;;;aAMmDA,kBAAkBA;;;;aAKhBC,oBAAoBA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;iBCiFzDC,QAAQA;;;;;;;WCpFPC,kBAAkBA;;;;;;;;;;;;;MAavBC,gBAAgBA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;MA8EhBC,0BAA0BA;;;;;;;;;WASrBC,eAAeA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;WAkCfC,iBAAiBA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;WAoCjBC,mBAAmBA;;;;;;;;;;MAaxBC,oBAAoBA",
+	"ignoreList": []
+}
