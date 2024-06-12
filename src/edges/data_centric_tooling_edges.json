@@ -1,10 +1,10 @@
 [
-    { "id": "s116t1161", "source": "1-16", "target": "1-16-1", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s116t1162", "source": "1-16", "target": "1-16-2", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s116t1163", "source": "1-16", "target": "1-16-3", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s116t1164", "source": "1-16", "target": "1-16-4", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s116t1165", "source": "1-16", "target": "1-16-5", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s116t1166", "source": "1-16", "target": "1-16-6", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s116t1167", "source": "1-16", "target": "1-16-7", "animated": true, "style": "stroke: #fff;" }
+    { "id": "s116t1161", "source": "dct", "target": "dct-1"},
+    { "id": "s116t1162", "source": "dct", "target": "dct-2"},
+    { "id": "s116t1163", "source": "dct", "target": "dct-3"},
+    { "id": "s116t1164", "source": "dct", "target": "dct-4"},
+    { "id": "s116t1165", "source": "dct", "target": "dct-5"},
+    { "id": "s116t1166", "source": "dct", "target": "dct-6"},
+    { "id": "s116t1167", "source": "dct", "target": "dct-7"}
   ]
   

@@ -1,9 +1,9 @@
 [
-    { "id": "s115t1151", "source": "1-15", "target": "1-15-1", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s115t1152", "source": "1-15", "target": "1-15-2", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s115t1153", "source": "1-15", "target": "1-15-3", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s115t1154", "source": "1-15", "target": "1-15-4", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s115t1155", "source": "1-15", "target": "1-15-5", "animated": true, "style": "stroke: #fff;" },
-    { "id": "s115t1156", "source": "1-15", "target": "1-15-6", "animated": true, "style": "stroke: #fff;" }
+    { "id": "s115t1151", "source": "om", "target": "om-1"},
+    { "id": "s115t1152", "source": "om", "target": "om-2"},
+    { "id": "s115t1153", "source": "om", "target": "om-3"},
+    { "id": "s115t1154", "source": "om", "target": "om-4"},
+    { "id": "s115t1155", "source": "om", "target": "om-5"},
+    { "id": "s115t1156", "source": "om", "target": "om-6"}
   ]
   
