@@ -137,3 +137,4 @@ dist
 .svelte-kit/
 package
 
+pnpm-lock.yaml

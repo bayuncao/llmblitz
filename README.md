@@ -1,4 +1,3 @@
-
 # LLM Blitz
 
 Welcome to **LLM Blitz**, a comprehensive project dedicated to showcasing various dimensions, key products, and technological stacks within the realm of large language models (LLMs). This project aims to provide an informative and interactive platform for users to explore the diverse landscape of LLM technologies.
@@ -32,16 +31,19 @@ LLM Blitz is designed to offer a detailed view of the large language model (LLM)
 To install and run the LLMBlitz project locally, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/bayuncao/llmblitz.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd llmblitz
    ```
 
 3. Install the required dependencies:
+
    ```bash
    npm install
    ```
