@@ -1,47 +1,92 @@
-# Svelte + TS + Vite
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+# LLM Blitz
 
-## Recommended IDE Setup
+Welcome to **LLM Blitz**, a comprehensive project dedicated to showcasing various dimensions, key products, and technological stacks within the realm of large language models (LLMs). This project aims to provide an informative and interactive platform for users to explore the diverse landscape of LLM technologies.
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+Visit https://llmblitz.vercel.app/ to see the real-time latest version.
 
-## Need an official Svelte framework?
+## Table of Contents
 
-Check out [SvelteKit](https://github.com/sveltejs/kit#readme), which is also powered by Vite. Deploy anywhere with its serverless-first approach and adapt to various platforms, with out of the box support for TypeScript, SCSS, and Less, and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
-## Technical considerations
+## Overview
 
-**Why use this over SvelteKit?**
+LLM Blitz is designed to offer a detailed view of the large language model (LLM) ecosystem. Whether you are a developer, researcher, or enthusiast, this project serves as a valuable resource for understanding the key players, products, and trends in the field of LLMs.
 
-- It brings its own routing solution which might not be preferable for some users.
-- It is first and foremost a framework that just happens to use Vite under the hood, not a Vite app.
+## Features
 
-This template contains as little as possible to get started with Vite + TypeScript + Svelte, while taking into account the developer experience with regards to HMR and intellisense. It demonstrates capabilities on par with the other `create-vite` templates and is a good starting point for beginners dipping their toes into a Vite + Svelte project.
+- **Comprehensive Overview**: Explore the key dimensions and components of LLMs, including their applications, advantages, and limitations.
+- **Interactive Visualizations**: Gain insights through interactive charts and graphs that illustrate various aspects of LLM technologies.
+- **Product Listings**: Discover the major products and services available in the LLM market.
+- **Technological Insights**: Understand the underlying technologies and innovations driving the development of LLMs.
+- **Regular Updates**: Stay informed with the latest developments and updates in the LLM field.
 
-Should you later need the extended capabilities and extensibility provided by SvelteKit, the template has been structured similarly to SvelteKit so that it is easy to migrate.
+## Installation
 
-**Why `global.d.ts` instead of `compilerOptions.types` inside `jsconfig.json` or `tsconfig.json`?**
+To install and run the LLMBlitz project locally, follow these steps:
 
-Setting `compilerOptions.types` shuts out all other types not explicitly listed in the configuration. Using triple-slash references keeps the default TypeScript setting of accepting type information from the entire workspace, while also adding `svelte` and `vite/client` type information.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bayuncao/llmblitz.git
+   ```
 
-**Why include `.vscode/extensions.json`?**
+2. Navigate to the project directory:
+   ```bash
+   cd llmblitz
+   ```
 
-Other templates indirectly recommend extensions via the README, but this file allows VS Code to prompt the user to install the recommended extension upon opening the project.
+3. Install the required dependencies:
+   ```bash
+   npm install
+   ```
 
-**Why enable `allowJs` in the TS template?**
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-While `allowJs: false` would indeed prevent the use of `.js` files in the project, it does not prevent the use of JavaScript syntax in `.svelte` files. In addition, it would force `checkJs: false`, bringing the worst of both worlds: not being able to guarantee the entire codebase is TypeScript, and also having worse typechecking for the existing JavaScript. In addition, there are valid use cases in which a mixed codebase may be relevant.
+Visit `http://localhost:5173` in your web browser to view the project.
 
-**Why is HMR not preserving my local component state?**
+## Usage
 
-HMR state preservation comes with a number of gotchas! It has been disabled by default in both `svelte-hmr` and `@sveltejs/vite-plugin-svelte` due to its often surprising behavior. You can read the details [here](https://github.com/rixo/svelte-hmr#svelte-hmr).
+Once the project is up and running, you can explore various sections to learn more about LLMs. The interactive visualizations and detailed descriptions provide a thorough understanding of the LLM landscape. Use the navigation menu to access different areas of the project, such as product listings, technological insights, and more.
 
-If you have state that's important to retain within a component, consider creating an external store which would not be replaced by HMR.
+## Contributing
 
-```ts
-// store.ts
-// An extremely simple external store
-import { writable } from "svelte/store";
-export default writable(0);
-```
+Contributions are welcome! If you would like to contribute to LLMBlitz, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes.
+4. Commit your changes:
+   ```bash
+   git commit -m 'Add your feature'
+   ```
+5. Push to the branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+6. Open a pull request.
+
+Please ensure your code adheres to the project's coding standards and includes relevant tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgements
+
+We would like to thank the open-source community and all the contributors who have made this project possible. Your support and collaboration are greatly appreciated.
+
+---
+
+We hope you find LLM Blitz valuable and informative. If you have any questions or feedback, please feel free to open an issue or contact us. Thank you for your interest and support!
