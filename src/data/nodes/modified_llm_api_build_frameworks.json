@@ -1,0 +1,192 @@
+[
+  {
+    "id": "labf",
+    "data": {
+      "label": "LLM API Build Frameworks"
+    },
+    "position": {
+      "x": 0,
+      "y": 3600
+    }
+  },
+  {
+    "id": "labf-1",
+    "data": {
+      "label": "GALE"
+    },
+    "position": {
+      "x": 0,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-2",
+    "data": {
+      "label": "kapa.ai"
+    },
+    "position": {
+      "x": 100,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-3",
+    "data": {
+      "label": "louie.ai"
+    },
+    "position": {
+      "x": 200,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-4",
+    "data": {
+      "label": "clarifai"
+    },
+    "position": {
+      "x": 300,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-5",
+    "data": {
+      "label": "Chatbase"
+    },
+    "position": {
+      "x": 400,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-6",
+    "data": {
+      "label": "datagran"
+    },
+    "position": {
+      "x": 500,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-7",
+    "data": {
+      "label": "Humorate"
+    },
+    "position": {
+      "x": 600,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-8",
+    "data": {
+      "label": "Relevance AI"
+    },
+    "position": {
+      "x": 700,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-9",
+    "data": {
+      "label": "Fixie.ai"
+    },
+    "position": {
+      "x": 800,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-10",
+    "data": {
+      "label": "CodeParrot"
+    },
+    "position": {
+      "x": 900,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-11",
+    "data": {
+      "label": "DeepPavlov"
+    },
+    "position": {
+      "x": 1000,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-12",
+    "data": {
+      "label": "Humanloop"
+    },
+    "position": {
+      "x": 1100,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-13",
+    "data": {
+      "label": "Langchain"
+    },
+    "position": {
+      "x": 1200,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-14",
+    "data": {
+      "label": "Haystack"
+    },
+    "position": {
+      "x": 1300,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-15",
+    "data": {
+      "label": "PromptChainer"
+    },
+    "position": {
+      "x": 1400,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-16",
+    "data": {
+      "label": "stack"
+    },
+    "position": {
+      "x": 1500,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-17",
+    "data": {
+      "label": "Relevance AI"
+    },
+    "position": {
+      "x": 1600,
+      "y": 3750
+    }
+  },
+  {
+    "id": "labf-18",
+    "data": {
+      "label": "Chatbotkit"
+    },
+    "position": {
+      "x": 1700,
+      "y": 3750
+    }
+  }
+]

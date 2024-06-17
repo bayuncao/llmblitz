@@ -8,8 +8,8 @@ export default defineConfig({
   resolve: {
     alias: {
       "@src": path.resolve(__dirname, "./src"),
-      "@nodes": path.resolve(__dirname, "./src/nodes"),
-      "@edges": path.resolve(__dirname, "./src/edges"),
-    }
-  }
+      "@nodes": path.resolve(__dirname, "./src/data/nodes"),
+      "@edges": path.resolve(__dirname, "./src/data/edges"),
+    },
+  },
 });

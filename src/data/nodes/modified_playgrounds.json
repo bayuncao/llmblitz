@@ -1,0 +1,52 @@
+[
+  {
+    "id": "p",
+    "data": {
+      "label": "Playgrounds"
+    },
+    "position": {
+      "x": 0,
+      "y": 3000
+    }
+  },
+  {
+    "id": "p-1",
+    "data": {
+      "label": "Anthropic"
+    },
+    "position": {
+      "x": 0,
+      "y": 3150
+    }
+  },
+  {
+    "id": "p-2",
+    "data": {
+      "label": "AI21 Labs"
+    },
+    "position": {
+      "x": 100,
+      "y": 3150
+    }
+  },
+  {
+    "id": "p-3",
+    "data": {
+      "label": "Vercel"
+    },
+    "position": {
+      "x": 200,
+      "y": 3150
+    }
+  },
+  {
+    "id": "p-4",
+    "data": {
+      "label": "LangSmith"
+    },
+    "position": {
+      "x": 300,
+      "y": 3150
+    }
+  }
+]

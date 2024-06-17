@@ -10,11 +10,10 @@ export default {
       resolve: {
         alias: {
           "@src": path.resolve("./src"),
-          "@nodes": path.resolve("./src/nodes"),
-          "@edges": path.resolve("./src/edges"),
-
-        }
-      }
-    }
-  }
+          "@nodes": path.resolve("./src/data/nodes"),
+          "@edges": path.resolve("./src/data/edges"),
+        },
+      },
+    },
+  },
 };

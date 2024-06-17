@@ -1,0 +1,224 @@
+[
+  {
+    "id": "dl",
+    "data": {
+      "label": "Data Layer"
+    }
+  },
+  {
+    "id": "dl-1",
+    "data": {
+      "label": "Airbyte"
+    }
+  },
+  {
+    "id": "dl-2",
+    "data": {
+      "label": "Airflow"
+    }
+  },
+  {
+    "id": "dl-3",
+    "data": {
+      "label": "Databricks"
+    }
+  },
+  {
+    "id": "dl-4",
+    "data": {
+      "label": "Unstructured"
+    }
+  },
+  {
+    "id": "dl-5",
+    "data": {
+      "label": "Cohere"
+    }
+  },
+  {
+    "id": "dl-6",
+    "data": {
+      "label": "OpenAI Ada"
+    }
+  },
+  {
+    "id": "dl-7",
+    "data": {
+      "label": "Sentence Transformers"
+    }
+  },
+  {
+    "id": "dl-8",
+    "data": {
+      "label": "Chroma"
+    }
+  },
+  {
+    "id": "dl-9",
+    "data": {
+      "label": "Pinecone"
+    }
+  },
+  {
+    "id": "dl-10",
+    "data": {
+      "label": "Qdrant"
+    }
+  },
+  {
+    "id": "dl-11",
+    "data": {
+      "label": "Weaviate"
+    }
+  },
+  {
+    "id": "dl-12",
+    "data": {
+      "label": "LangChain"
+    }
+  },
+  {
+    "id": "dl-13",
+    "data": {
+      "label": "LlamaIndex"
+    }
+  },
+  {
+    "id": "dl-14",
+    "data": {
+      "label": "Elasticsearch"
+    }
+  },
+  {
+    "id": "dl-15",
+    "data": {
+      "label": "PostgreSQL pgvector"
+    }
+  },
+  {
+    "id": "dl-16",
+    "data": {
+      "label": "Redis"
+    }
+  },
+  {
+    "id": "ml",
+    "data": {
+      "label": "Model Layer"
+    }
+  },
+  {
+    "id": "ml-1",
+    "data": {
+      "label": "OpenAI's GPT-4"
+    }
+  },
+  {
+    "id": "ml-2",
+    "data": {
+      "label": "Anthropic's Claude"
+    }
+  },
+  {
+    "id": "ml-3",
+    "data": {
+      "label": "Meta's Llama 2"
+    }
+  },
+  {
+    "id": "ml-4",
+    "data": {
+      "label": "Hugging Face Models"
+    }
+  },
+  {
+    "id": "ol",
+    "data": {
+      "label": "Orchestration Layer"
+    }
+  },
+  {
+    "id": "ol-1",
+    "data": {
+      "label": "LangChain"
+    }
+  },
+  {
+    "id": "ol-2",
+    "data": {
+      "label": "Anarchy"
+    }
+  },
+  {
+    "id": "ol-3",
+    "data": {
+      "label": "Flowise"
+    }
+  },
+  {
+    "id": "ol-4",
+    "data": {
+      "label": "Stack AI"
+    }
+  },
+  {
+    "id": "oll",
+    "data": {
+      "label": "Operational Layer"
+    }
+  },
+  {
+    "id": "oll-1",
+    "data": {
+      "label": "Autoblocks"
+    }
+  },
+  {
+    "id": "oll-2",
+    "data": {
+      "label": "Helicone"
+    }
+  },
+  {
+    "id": "oll-3",
+    "data": {
+      "label": "HoneyHive"
+    }
+  },
+  {
+    "id": "oll-4",
+    "data": {
+      "label": "LangSmith"
+    }
+  },
+  {
+    "id": "oll-5",
+    "data": {
+      "label": "Weights & Biases"
+    }
+  },
+  {
+    "id": "oll-6",
+    "data": {
+      "label": "GPTCache"
+    }
+  },
+  {
+    "id": "oll-7",
+    "data": {
+      "label": "Redis"
+    }
+  },
+  {
+    "id": "oll-8",
+    "data": {
+      "label": "Guardrails AI"
+    }
+  },
+  {
+    "id": "oll-9",
+    "data": {
+      "label": "Rebuff"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "gsa",
+    "data": {
+      "label": "Generative & Search Assistants"
+    },
+    "position": {
+      "x": 0,
+      "y": 2100
+    }
+  },
+  {
+    "id": "gsa-1",
+    "data": {
+      "label": "Dialog"
+    },
+    "position": {
+      "x": 0,
+      "y": 2250
+    }
+  },
+  {
+    "id": "gsa-2",
+    "data": {
+      "label": "wonderchat"
+    },
+    "position": {
+      "x": 100,
+      "y": 2250
+    }
+  },
+  {
+    "id": "gsa-3",
+    "data": {
+      "label": "Lexii.ai"
+    },
+    "position": {
+      "x": 200,
+      "y": 2250
+    }
+  },
+  {
+    "id": "gsa-4",
+    "data": {
+      "label": "Vicpra"
+    },
+    "position": {
+      "x": 300,
+      "y": 2250
+    }
+  },
+  {
+    "id": "gsa-5",
+    "data": {
+      "label": "MightyGPT"
+    },
+    "position": {
+      "x": 400,
+      "y": 2250
+    }
+  },
+  {
+    "id": "gsa-6",
+    "data": {
+      "label": "Andi"
+    },
+    "position": {
+      "x": 500,
+      "y": 2250
+    }
+  }
+]

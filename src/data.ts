@@ -1,4 +1,4 @@
-import { type Node, type Edge, Position } from '@xyflow/svelte';
+import { type Node, type Edge, Position } from "@xyflow/svelte";
 
 // 导入节点数据
 import in_context_learning from "@nodes/modified_in_context_learning.json";
@@ -48,7 +48,7 @@ const initialNodes: Node[] = [
   ...vector_stores_semantic_databases,
   ...operations_management,
   ...data_centric_tooling,
-  ...models_hubs
+  ...models_hubs,
 ];
 
 // 初始化边数据
@@ -66,15 +66,15 @@ const initialEdges: Edge[] = [
   ...vector_stores_semantic_databases_edges,
   ...operations_management_edges,
   ...data_centric_tooling_edges,
-  ...models_hubs_edges
+  ...models_hubs_edges,
 ];
 const position = { x: 0, y: 0 }; // 初始位置，可以根据需要调整
-const firstLevelSpacingX = 500; // 一级节点的水平间距
-const secondLevelSpacingX = 200;  // 二级节点相对于一级节点的水平间距
-const secondLevelSpacingY = 80;  // 二级节点的垂直间距
+const firstLevelSpacingX = 400; // 一级节点的水平间距
+const secondLevelSpacingX = 200; // 二级节点相对于一级节点的水平间距
+const secondLevelSpacingY = 80; // 二级节点的垂直间距
 
 // 找出所有一级节点的数量
-const firstLevelNodes = initialNodes.filter(node => !node.id.includes("-"));
+const firstLevelNodes = initialNodes.filter((node) => !node.id.includes("-"));
 const firstLevelNodeCount = firstLevelNodes.length;
 
 // 设置一级节点的位置
@@ -82,7 +82,7 @@ firstLevelNodes.forEach((node, index) => {
   node.sourcePosition = Position.Right;
   node.position = {
     x: position.x + index * firstLevelSpacingX,
-    y: position.y // 所有一级节点在同一水平线上
+    y: position.y, // 所有一级节点在同一水平线上
   };
 });
 
@@ -93,13 +93,15 @@ initialNodes.forEach((node, index) => {
     node.targetPosition = Position.Left;
     // 找到对应的一级节点的位置
     const parentNodeId = node.id.split("-")[0];
-    const parentNode = initialNodes.find(n => n.id === parentNodeId);
+    const parentNode = initialNodes.find((n) => n.id === parentNodeId);
 
     if (parentNode) {
-      const secondLevelIndex = initialNodes.filter(n => n.id.includes(`${parentNodeId}-`)).indexOf(node);
+      const secondLevelIndex = initialNodes
+        .filter((n) => n.id.includes(`${parentNodeId}-`))
+        .indexOf(node);
       node.position = {
         x: parentNode.position.x + secondLevelSpacingX,
-        y: parentNode.position.y + secondLevelIndex * secondLevelSpacingY // 在对应一级节点右侧垂直排列
+        y: parentNode.position.y + secondLevelIndex * secondLevelSpacingY, // 在对应一级节点右侧垂直排列
       };
     }
   }

@@ -11,14 +11,17 @@
     "fmt": "pnpm exec prettier . --write"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^2.5.0",
-    "svelte": "^4.2.2",
-    "vite": "^4.5.0"
+    "@sveltejs/vite-plugin-svelte": "^3.1.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "svelte": "^4.2.18",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.2.13"
   },
   "dependencies": {
-    "@xyflow/svelte": "^0.0.28",
+    "@xyflow/svelte": "^0.1.6",
     "elkjs": "^0.9.3",
     "html-to-image": "^1.11.11",
-    "prettier-plugin-svelte": "^3.2.3"
+    "prettier-plugin-svelte": "^3.2.4"
   }
 }

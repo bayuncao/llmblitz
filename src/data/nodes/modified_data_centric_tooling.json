@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dct",
+    "data": {
+      "label": "Data Centric Tooling"
+    },
+    "position": {
+      "x": 0,
+      "y": 4800
+    }
+  },
+  {
+    "id": "dct-1",
+    "data": {
+      "label": "Snorkel"
+    },
+    "position": {
+      "x": 0,
+      "y": 4950
+    }
+  },
+  {
+    "id": "dct-2",
+    "data": {
+      "label": "scale"
+    },
+    "position": {
+      "x": 100,
+      "y": 4950
+    }
+  },
+  {
+    "id": "dct-3",
+    "data": {
+      "label": "GALE"
+    },
+    "position": {
+      "x": 200,
+      "y": 4950
+    }
+  },
+  {
+    "id": "dct-4",
+    "data": {
+      "label": "HumanFirst"
+    },
+    "position": {
+      "x": 300,
+      "y": 4950
+    }
+  },
+  {
+    "id": "dct-5",
+    "data": {
+      "label": "Labelbox"
+    },
+    "position": {
+      "x": 400,
+      "y": 4950
+    }
+  },
+  {
+    "id": "dct-6",
+    "data": {
+      "label": "prodigy"
+    },
+    "position": {
+      "x": 500,
+      "y": 4950
+    }
+  },
+  {
+    "id": "dct-7",
+    "data": {
+      "label": "fabric"
+    },
+    "position": {
+      "x": 600,
+      "y": 4950
+    }
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mh",
+    "data": {
+      "label": "Models & Hubs"
+    },
+    "position": {
+      "x": 0,
+      "y": 5100
+    }
+  },
+  {
+    "id": "mh-1",
+    "data": {
+      "label": "AI21 labs"
+    },
+    "position": {
+      "x": 0,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-2",
+    "data": {
+      "label": "Google AI"
+    },
+    "position": {
+      "x": 100,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-3",
+    "data": {
+      "label": "cohere"
+    },
+    "position": {
+      "x": 200,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-4",
+    "data": {
+      "label": "stability.ai"
+    },
+    "position": {
+      "x": 300,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-5",
+    "data": {
+      "label": "Anthropic"
+    },
+    "position": {
+      "x": 400,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-6",
+    "data": {
+      "label": "Baidu AI Cloud"
+    },
+    "position": {
+      "x": 500,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-7",
+    "data": {
+      "label": "Microsoft AI"
+    },
+    "position": {
+      "x": 600,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-8",
+    "data": {
+      "label": "open-sourced LLM Models"
+    },
+    "position": {
+      "x": 700,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-9",
+    "data": {
+      "label": "BLOOM"
+    },
+    "position": {
+      "x": 800,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-10",
+    "data": {
+      "label": "mosaicML"
+    },
+    "position": {
+      "x": 900,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-11",
+    "data": {
+      "label": "GooseAI"
+    },
+    "position": {
+      "x": 1000,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-12",
+    "data": {
+      "label": "LMsys Org"
+    },
+    "position": {
+      "x": 1100,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-13",
+    "data": {
+      "label": "metacrad"
+    },
+    "position": {
+      "x": 1200,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-14",
+    "data": {
+      "label": "Hugging Face"
+    },
+    "position": {
+      "x": 1300,
+      "y": 5250
+    }
+  },
+  {
+    "id": "mh-15",
+    "data": {
+      "label": "GitHub"
+    },
+    "position": {
+      "x": 1400,
+      "y": 5250
+    }
+  }
+]

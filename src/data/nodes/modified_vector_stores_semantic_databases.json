@@ -1,0 +1,132 @@
+[
+  {
+    "id": "vssd",
+    "data": {
+      "label": "Vector Stores/Semantic Databases"
+    },
+    "position": {
+      "x": 0,
+      "y": 4200
+    }
+  },
+  {
+    "id": "vssd-1",
+    "data": {
+      "label": "Cohere"
+    },
+    "position": {
+      "x": 0,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-2",
+    "data": {
+      "label": "Hugging Face"
+    },
+    "position": {
+      "x": 100,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-3",
+    "data": {
+      "label": "Vald"
+    },
+    "position": {
+      "x": 200,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-4",
+    "data": {
+      "label": "redis"
+    },
+    "position": {
+      "x": 300,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-5",
+    "data": {
+      "label": "metal"
+    },
+    "position": {
+      "x": 400,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-6",
+    "data": {
+      "label": "FAISS"
+    },
+    "position": {
+      "x": 500,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-7",
+    "data": {
+      "label": "Weaviate"
+    },
+    "position": {
+      "x": 600,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-8",
+    "data": {
+      "label": "OpenSearch"
+    },
+    "position": {
+      "x": 700,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-9",
+    "data": {
+      "label": "Milvus"
+    },
+    "position": {
+      "x": 800,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-10",
+    "data": {
+      "label": "Qdrant"
+    },
+    "position": {
+      "x": 900,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-11",
+    "data": {
+      "label": "Elasticsearch"
+    },
+    "position": {
+      "x": 1000,
+      "y": 4350
+    }
+  },
+  {
+    "id": "vssd-12",
+    "data": {
+      "label": "pgvector"
+    },
+    "position": {
+      "x": 1100,
+      "y": 4350
+    }
+  }
+]

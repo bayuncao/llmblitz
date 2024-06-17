@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dca",
+    "data": {
+      "label": "Developer/Coding Assistants"
+    },
+    "position": {
+      "x": 0,
+      "y": 2700
+    }
+  },
+  {
+    "id": "dca-1",
+    "data": {
+      "label": "Phind"
+    },
+    "position": {
+      "x": 0,
+      "y": 2850
+    }
+  },
+  {
+    "id": "dca-2",
+    "data": {
+      "label": "Refraction"
+    },
+    "position": {
+      "x": 100,
+      "y": 2850
+    }
+  },
+  {
+    "id": "dca-3",
+    "data": {
+      "label": "CodeAssist"
+    },
+    "position": {
+      "x": 200,
+      "y": 2850
+    }
+  },
+  {
+    "id": "dca-4",
+    "data": {
+      "label": "CodeGeeX"
+    },
+    "position": {
+      "x": 300,
+      "y": 2850
+    }
+  }
+]
